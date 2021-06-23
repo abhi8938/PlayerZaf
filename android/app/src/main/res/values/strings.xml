@@ -1,0 +1,6 @@
+<resources>
+	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">fodZxCODCEYSOjBqc27gQAWqE6lA2b34545a-a86b-447c-acc0-b5b85a319bc0</string>
+    <string name="app_name">PlayerZaf</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ENABLE_IN_JS</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">ASK_JAVASCRIPT</string>
+</resources>
